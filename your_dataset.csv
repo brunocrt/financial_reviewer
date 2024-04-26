@@ -1,0 +1,6 @@
+name,industry,sector,last_12_months_revenue,EBITDA,enterprise_value,net_debt,target_column
+Company A,Technology,Software,1000000,50000,1500000,200000,1
+Company B,Finance,Banking,2000000,100000,3000000,500000,0
+Company C,Healthcare,Pharmaceuticals,1500000,75000,2000000,300000,1
+Company D,Manufacturing,Industrial,1200000,60000,1800000,250000,0
+Company E,Technology,Hardware,1800000,90000,2500000,400000,1
